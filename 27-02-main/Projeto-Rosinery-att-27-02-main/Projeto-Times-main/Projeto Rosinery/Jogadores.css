@@ -1,0 +1,41 @@
+body {
+    font-family: Impact, 'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
+    color:white;
+    background-color: black;
+}
+
+h1{
+    text-align: center
+}
+
+ul{
+     display:flex;
+justify-content: space-between; 
+list-style-type:none;
+align-items: center;
+padding: 16px;
+
+}
+ 
+a {
+    color: white;
+    text-decoration: none;
+}
+
+img {
+    width: 300x;
+    height: 300px;
+    border-radius: 5%;
+    border: 1px solid green;
+}
+
+header {
+    text-align: center;
+    padding: 50px;
+
+}
+
+.Cristiano img {
+    margin-right: 10000px;
+}
+

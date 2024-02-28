@@ -1,0 +1,22 @@
+body {
+    font-family: Impact, 'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
+
+h1{
+    font-size: xx-large;
+    } 
+
+
+    a {
+        color: white;
+        text-decoration: none;
+    }
+    
+    img{
+        width: 250x;
+        height: 258px;
+        border-radius: 3%;
+      
+    }

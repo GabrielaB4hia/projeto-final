@@ -1,0 +1,45 @@
+
+body {
+    font-family: Impact, 'Haettenschweiler', 'Arial Narrow Bold', sans-serif; /*fonte para o corpo do texto */
+    color: rgb(255, 255, 255); 
+    background-color: black;
+    text-align: center; /* Centraliza o texto */
+}
+
+
+ul {
+    display: flex; /* Define o layout flexível para a lista */
+    justify-content: space-between; /* Distribui o espaço entre os itens da lista */
+    list-style-type: none; /* Remove os marcadores de lista */
+    align-items: center; /* Alinha os itens verticalmente */
+    padding: 16px; /* Adiciona preenchimento interno à lista */
+    font-size: xx-large; /*tamanho da fonte como extra grande */
+}
+
+a {
+    color: white; /*cor do texto dos links como branco */
+    text-decoration: none; /* Remove a decoração padrão dos links */
+}
+
+.imagem-clicavel {
+    width: 260px; /* largura da imagem */
+    height: 260px; /*altura da imagem */
+    border-radius: 5%; /* Adiciona bordas arredondadas */
+    border: 1px solid rgb(255, 255, 255); /* Adiciona uma borda sólida */
+}
+
+header {
+    text-align: center; /* Centraliza o texto dentro do cabeçalho */
+    padding: 50px; /* Adiciona preenchimento interno ao cabeçalho */
+}
+
+.container {
+    display: flex; /*layout flexível para o container */
+    justify-content: center; /* Centraliza os itens horizontalmente */
+}
+
+h1 {
+    text-align: center; /* Centraliza o texto */
+    font-family: 'Courier New', Courier, monospace; /*fonte para o título */
+    color: white; /* Define a cor do texto como branco */
+}
